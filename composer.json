@@ -20,11 +20,6 @@
 
     },
 
-    "autoload": {
-        "psr-0": {"LibraArticleImageZooming": "src/"},
-        "classmap": ["Module.php"]
-    },
-
     "provide": {
     },
 
