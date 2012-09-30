@@ -13,7 +13,7 @@
 
     "require": {
         "php":                              ">=5.3.3",
-        "libra/libra-app":                  "dev-default",
+        "libra/libra-app":                  "dev-default"
     },
 
     "require-dev": {
