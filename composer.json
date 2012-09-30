@@ -1,5 +1,5 @@
 {
-    "name":         "libra/libra-article-image-zooming",
+    "name":         "libra/fancybox-assets",
     "type":         "library",
     "version":      "0.3.0",
     "description":  "Add skeleton module to Libra CMS",
