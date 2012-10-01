@@ -9,22 +9,5 @@
     "licence":      "BSD-3-Clause",
     "authors": [
         {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "contributer", "homepage": ""}
-    ],
-
-    "require": {
-        "php":                              ">=5.3.3",
-        "libra/libra-app":                  "dev-default"
-    },
-
-    "require-dev": {
-
-    },
-
-    "provide": {
-    },
-
-    "sugest": {
-
-    }
-
+    ]
 }
