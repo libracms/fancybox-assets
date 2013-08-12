@@ -1,10 +1,10 @@
 {
     "name":         "libra/fancybox-assets",
-    "type":         "library",
-    "description":  "Default fancyBox assets for Libra CMS",
+    "type":         "asset-aware",
+    "description":  "Default fancyBox assets for ZF2 projects",
     "keywords":     ["zf", "zf2", "zendframework", "cms", "libra", "fancybox"],
-    "homepage":     "http://www.ejoom.com/libra-cms/",
-    "licence":      "BSD-3-Clause",
+    "homepage":     "http://fancyapps.com/fancybox/",
+    "licence":      "CC-BY-NC-3.0",
     "authors": [
         {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "contributer", "homepage": ""}
     ]
