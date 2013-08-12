@@ -1,0 +1,3 @@
+Downloaded from:
+
+https://github.com/fancyapps/fancyBox/zipball/v2.1.5
